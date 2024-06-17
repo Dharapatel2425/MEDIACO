@@ -2,8 +2,8 @@
 
 @font-face {
   font-family: 'HalyardDisplayBold';
-  src: url('../MEDIACO/Fonts/HalyardDisplay-Bold.woff2') format('woff2'),
-      url('../MEDIACO/Fonts/HalyardDisplay-Bold.woff') format('woff');
+  src: url('Fonts/HalyardDisplay-Bold.woff2') format('woff2'),
+      url('Fonts/HalyardDisplay-Bold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -11,8 +11,8 @@
 
 @font-face {
   font-family: 'HalyardDisplay';
-  src: url('../MEDIACO/Fonts/HalyardDisplay-Regular.woff2') format('woff2'),
-      url('../MEDIACO/Fonts/HalyardDisplay-Regular.woff') format('woff');
+  src: url('Fonts/HalyardDisplay-Regular.woff2') format('woff2'),
+      url('Fonts/HalyardDisplay-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -20,7 +20,7 @@
 
 @font-face {
   font-family: 'HalyardSemiBold';
-  src: url('../MEDIACO/Fonts/Halyard_Display_SemiBold.ttf') format('truetype');
+  src: url('Fonts/Halyard_Display_SemiBold.ttf') format('truetype');
   font-style: normal;
   font-display: swap;
 }
@@ -28,7 +28,7 @@
 
 @font-face {
   font-family: 'Gilroy-Bold'; 
-  src: url('../MEDIACO/Fonts/Gilroy-Bold.ttf') format('truetype');
+  src: url('Fonts/Gilroy-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
@@ -37,7 +37,7 @@
 
 @font-face {
   font-family: 'Gilroy'; 
-  src: url('../MEDIACO/Fonts/Gilroy-Regular.ttf') format('truetype');
+  src: url('Fonts/Gilroy-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -196,7 +196,7 @@ h1, h2, h3, h4, h5, h6 {
     width: 100%;
     justify-content: center;
     padding: 0 1px;
-    background-image: url('../MEDIACO/img/plumbing-cost-hydro-blog-cont-img.jpg');
+    background-image: url('img/plumbing-cost-hydro-blog-cont-img.jpg');
     background-repeat: no-repeat;
     background-position: 100% 100%;
     background-size: cover;
